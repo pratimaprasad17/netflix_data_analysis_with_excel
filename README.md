@@ -26,7 +26,7 @@ I wanted to see what Netflix's content **really** looks like beyond the autoplay
 ---
 
 ## 🧰 Why Excel?
-> Because sometimes, the simplest tool tells the most powerful story.
+> _Because sometimes, the simplest tool tells the most powerful story._
 
 Many analysts underestimate the power of Excel. This project proves:
 - You can do storytelling without writing code
@@ -48,7 +48,7 @@ It needs curiosity, creativity, and a really well-made pivot table.
 
 ### 📂 **Dataset Used:** [Netflix Titles Dataset (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-Netflix’s rise from DVD mail-outs to global streaming giant didn’t just change how we watch — it reshaped content production itself.
+Netflix’s rise from DVD mail-outs to global streaming giant didn’t just change how we watch → it reshaped content production itself.
 
 This project dives into **Netflix’s complete title library**, using Excel to uncover trends, patterns, and anomalies across:
 
@@ -66,12 +66,12 @@ This project dives into **Netflix’s complete title library**, using Excel to u
 - 📌 **Built With:** Microsoft Excel 2021  
 - 📦 **File Type:** `.xlsx`  
 - 📑 **Key Sheets:**
-  - `📊 Dashboard View` — for clean visuals & summary KPIs  
-  - `📈 Statistical Summary` — with formulas & quick metrics  
-  - `🧹 Cleaned Data` — refined and ready for analysis  
+  - `📊 Dashboard View` : for clean visuals & summary KPIs  
+  - `📈 Statistical Summary` : with formulas & quick metrics  
+  - `🧹 Cleaned Data` : refined and ready for analysis  
 
 
-> _No fancy BI tools. No coding. Just Excel — pushed to its storytelling limit._
+> _No fancy BI tools. No coding. Just Excel - pushed to its storytelling limit._
 
 ---
 ## 🎯 Who Is This For?
@@ -103,12 +103,12 @@ The final dashboard layout covers three core questions:
 ## 🔍 Deep Dive into Key Insights
 
 ### 1. 📈 Title Additions by Year
-Netflix’s title count accelerated post-2016, aligning with its global rollout and original content push.
-🔹 Peak additions in 2019–2020 suggest pre-pandemic content ramp-up and increased competition.
+Netflix’s title count accelerated post-2016, aligning with its global rollout and original content push.  
+🔹 Peak additions in 2019–2020 suggest pre-pandemic content ramp-up and increased competition.  
 🔹 Post-2021 saw a slight decline, hinting at either content saturation or strategic shifts.
 
 ### 2. 🗓️ Content Added by Month
-📌 January and March emerge as peak months for new additions.
+📌 January and March emerge as peak months for new additions.  
 This could reflect quarter-based planning cycles or content clustering for audience engagement spikes.
 
 ### 3. 🌍 Top Countries by Production
@@ -119,12 +119,12 @@ While the United States remains dominant, international creators are steadily ri
 - **🇨🇦 Canada**: Steady participation in co-productions and regional stories
 
 📌 This underscores Netflix’s shift toward globalized storytelling
-> Globalization isn't a feature → it’s a *strategy*
+> _Globalization isn't a feature → it’s a *strategy*_
 
 ### 4. 🕒 Duration Analysis
 - 🎬 Movies: Most fall around 90 minutes, with a bell-curve distribution
 - 📺 TV Shows: Typically range between 1–3 seasons, with some outliers
-- 📉 Few titles exceed the 180-minute mark or go beyond 5 seasons — highlighting lean content packaging
+- 📉 Few titles exceed the 180-minute mark or go beyond 5 seasons - highlighting lean content packaging
 
 ### 5. 📺 Ratings Breakdown
 - 🟣 Most common rating: TV-MA, followed by TV-14
@@ -171,15 +171,12 @@ Whether you're just starting out in data or want to practice storytelling:
 - Create impactful **charts in Excel**
 - Design a dashboard layout that’s **clean and printable**
 - Extract insights from categorical + time-based data
-
 ---
-
-## 🙌 Credits
+### 🙌 Credits
 
 - Dataset: [Netflix Titles on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
----
 
-## 📌 Coming Soon (Stretch Goals)
+### 📌 Coming Soon (Stretch Goals)
 
 - Add slicers for interactivity  
 - Dynamic dashboard using Excel Tables  
