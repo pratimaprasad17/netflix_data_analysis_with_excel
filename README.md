@@ -24,24 +24,30 @@ To prove that storytelling through data doesn’t always need fancy tools. It ju
 
 **Dataset Used:** [Netflix Titles Dataset (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-This Excel-based dashboard analyzes over 5,000 Netflix titles across multiple dimensions:
+Netflix has transformed from a DVD rental company to the world’s leading streaming service. This Excel-based dashboard analyzes over 5,000 Netflix titles across multiple dimensions:
 - Type (Movie or TV Show)
 - Release Year & Date Added
 - Duration
 - Country of Origin
 - Ratings (TV-MA, PG, etc.)
 - Genre Breakdown
-- Title Trends Over Time
+- Title Trends Over Time  
 
 📌 **Tools Used:** Excel 2021  
 📌 **File Type:** `.xlsx`  
 📌 **Sheets:** Dashboard View, Statistical Summary, Cleaned Data
 
+## 🎯 Who Is This For?
+
+- 📈 **Aspiring Data Analysts** – looking to level up Excel skills using real data  
+- 💻 **Non-Coders** – curious about what’s possible without Python or SQL  
+- 🧪 **Excel Power Users** – wanting to test their formula, charting, and layout skills  
+- 🎬 **Content Nerds** – who want to geek out over Netflix’s global library
 ---
 
 ## 📊 Visual Storytelling in Action
 
-The final dashboard layout [PDF version](netflix_data_analysis.pdf) here walks you through three core questions:
+The final dashboard layout covers three core questions:
 
 1. **What's the composition of Netflix's content library?**  
    Movies dominate → by volume, by average duration, and even by global spread.
@@ -50,10 +56,14 @@ The final dashboard layout [PDF version](netflix_data_analysis.pdf) here walks y
    We see spikes in content acquisition post-2016 (Global Launch) and seasonal additions during Q1.
 
 3. **Where is this content coming from?**  
-   While the US still leads, countries like India, UK, and Canada have strong content footprints—highlighting Netflix’s localization efforts.
+   While the US still leads, countries like India, UK, and Canada have strong content footprints → highlighting Netflix’s localization efforts.
 
 ---
+## 📈 Visual Sneak Peek
+[Netflix Excel Dashboard](netflix_data_analysis.pdf)  
+<img width="1518" height="950" alt="image" src="https://github.com/user-attachments/assets/ad5d4449-ec04-4bca-84d1-43dfdbdb68c0" />
 
+---
 ## 🔍 Deep Dive into Key Insights
 
 ### 1. 📈 Title Additions by Year
@@ -66,7 +76,7 @@ The early-year spikes suggest Netflix plans new releases around January & March,
 While the US dominates, there’s a growing share of international content:
 - **India** emerges as a key player
 - **UK & Canada** show consistent presence
-- Globalization isn't a feature—it’s a *strategy*
+- Globalization isn't a feature → it’s a *strategy*
 
 ### 4. 🕒 Duration Analysis
 The average movie lasts about 90 minutes, while most TV shows range from 1 to 3 seasons. The dashboard also highlights outliers with unusually long runtimes.
@@ -76,7 +86,7 @@ The average movie lasts about 90 minutes, while most TV shows range from 1 to 3 
 - Suggests that mature audiences are Netflix’s biggest target group
 
 ### 6. 📚 Genre Distribution
-From thrillers to teen dramas, documentaries to horror—Netflix has it all. The chart shows the most tagged genres across movies and TV shows.
+From thrillers to teen dramas, documentaries to horror → Netflix has it all. The chart shows the most tagged genres across TV shows.
 
 ---
 
@@ -88,7 +98,7 @@ In addition to visuals, a dedicated sheet summarizes the dataset :
 - Average movie duration
 - Release year trends
 
-Each metric is dynamic—calculated using built-in Excel formulas like `MODE`, `AVERAGEIF`, `MAXIFS`, and more.
+Each metric is dynamic, calculated using built-in Excel formulas like `MODE`, `AVERAGEIF`, `MAXIFS`, and more.
 
 ---
 
@@ -97,7 +107,7 @@ Each metric is dynamic—calculated using built-in Excel formulas like `MODE`, `
 Many analysts underestimate the power of Excel. This project proves:
 - You can do storytelling without writing code
 - Advanced charts (Word Clouds, Timeline Charts) are possible
-- Excel can *look* good—if you design with purpose
+- Excel can *look* good, that is, if you design with purpose
 
 ---
 
